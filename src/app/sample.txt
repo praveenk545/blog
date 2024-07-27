@@ -1,0 +1,6 @@
+
+
+1.image file  did not find well(check out backend)
+2. single post component has data bind error 
+3. ng onint "Uncatarized " checkout this filter condition
+4. filter method did not work
